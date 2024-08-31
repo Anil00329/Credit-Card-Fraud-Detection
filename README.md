@@ -21,8 +21,6 @@ The dataset consists of 31 columns:
   - `Amount`: The transaction amount.
   - `Class`: The target variable, where `0` indicates a genuine transaction and `1` indicates a fraudulent one.
 
-The data is loaded from a CSV file, typically structured as follows:
-
 ## Installation
 
 To run this notebook, ensure you have the following Python libraries installed:
