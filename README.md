@@ -56,3 +56,8 @@ Visualizations and metrics are provided to assess the performance of the trained
 ## Conclusion
 
 This project demonstrates the use of machine learning in detecting credit card fraud, providing a foundation for building robust fraud detection systems.
+
+
+### 🚀 About Me
+#### Hi, I'm Anil! 👋
+I am a Data Science Enthusiast
